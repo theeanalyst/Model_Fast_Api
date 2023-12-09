@@ -7,10 +7,6 @@
 ![PR](https://img.shields.io/github/issues-pr/eaedk/streamlit-iris-app?style=for-the-badge&logo=appveyor)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-<div align='center'> 
-    <img src="https://drive.google.com/file/d/1mtbSzcefpADj4Z9cgFIvaAUZajnC98x2/view?usp=drive_link"/>
-    
-
 </div>
 
 ## Project Description 
