@@ -1,7 +1,0 @@
-fastapi==0.68.1
-pydantic==1.8.2
-pandas==1.3.3
-joblib==1.1.0
-uvicorn==0.15.0
-numpy==1.21.2
-imbalanced-learn==0.8.0
