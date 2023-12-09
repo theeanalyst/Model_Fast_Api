@@ -100,19 +100,6 @@ This project combines machine learning and FastAPI to develop a powerful and sca
     <td><a href="http://localhost:8000/docs">Sepsis Prediction API-heroku</a></td>
   </tr>
 
-</table>
-
-<table>
-  <tr>
-    <th>App</th>
-    <th>Deployed links</th>
-  </tr>
-  <tr>
-    <td>Sepsis Prediction App</td>
-    <td><a href="">Deployed App with huggingface</a></td>
-  </tr>
-
-</table>
 
 ## 3. Technology Stack <a name="technology"></a>
  
