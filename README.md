@@ -1,4 +1,4 @@
-# 🚀Embedding-a-Machine-Learning-Model-into-a-Web-Application 🚀
+# Embedding-a-Machine-Learning-Model-into-a-Web-Application
 
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,15 +28,11 @@ This project combines machine learning and FastAPI to develop a powerful and sca
 
 4. [Deliverables](#deliverables)
 
-5. [Execution](#execution)
+5. [App Usage](#usage)
 
-6. [API Endpoints](#api-endpoints)
+6. [Resources](#resources)
 
-7. [App Usage](#usage)
-
-8. [Resources](#resources)
-
-9. [Contact Information](#ontact)
+7. [Contact Information](#ontact)
 
 
 ## 1. Overview Of the Project <a name="overview"></a>
@@ -105,16 +101,8 @@ This project combines machine learning and FastAPI to develop a powerful and sca
 ## 2. Application / Deployed Links <a name="application"></a>
 <table>
   <tr>
-    <th>API</th>
-    <th>Deployed links</th>
-  </tr>
-  <tr>
     <td>FastApi</td>
-    <td><a href="https://bright1-sepsis-prediction-api.hf.space/docs">Sepsis Prediction API-huggingface</a></td>
-  </tr>
-  <tr>
-    <td>FastApi</td>
-    <td><a href="https://radiant-lowlands-86946.herokuapp.com/docs">Sepsis Prediction API-heroku</a></td>
+    <td><a href="http://localhost:8000/docs">Sepsis Prediction API-heroku</a></td>
   </tr>
 
 </table>
@@ -174,7 +162,7 @@ This project combines machine learning and FastAPI to develop a powerful and sca
 4. A app.py that make calls to the build and hosted API
 5. A Dockerfile for easy deployment 
 
-## 8. App Usage <a name="usage"></a>
+## 5. App Usage <a name="usage"></a>
 To test the various endpoints of the API using the provided documentation, follow these steps:
 
 1. Start by accessing the API documentation, which provides detailed information about the available endpoints and their functionalities.
@@ -189,7 +177,7 @@ To test the various endpoints of the API using the provided documentation, follo
 
 7. Repeat the process to test different endpoints or vary the input data to explore the capabilities of the API. Make sure to follow the documentation's guidelines for each endpoint to ensure accurate results.
 
-## 9. Resources <a name="resources"></a>
+## 6. Resources <a name="resources"></a>
 Here are some ressources you would read to have a good understanding of FastAPI :
 - [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial/)
 - [Video - Building a Machine Learning API in 15 Minutes ](https://youtu.be/C82lT9cWQiA)
@@ -199,12 +187,11 @@ Here are some ressources you would read to have a good understanding of FastAPI 
 - [Http status codes](https://www.linkedin.com/feed/update/urn:li:activity:7017027658400063488?utm_source=share&utm_medium=member_desktop)
 
 
-## 10. Contact Information <a name="contact"></a>
+## 7. Contact Information <a name="contact"></a>
 
 <table>
   <tr>
     <th>Name</th>
-    <th>Twitter</th>
     <th>LinkedIn</th>
     <th>GitHub</th>
     <th>Hugging Face</th>
