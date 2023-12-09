@@ -99,7 +99,10 @@ This project combines machine learning and FastAPI to develop a powerful and sca
     <td>FastApi</td>
     <td><a href="http://localhost:8000/docs">Sepsis Prediction API</a></td>
   </tr>
-
+  <tr>
+    <td>Docker Hub Repo</td>
+    <td><a href="https://hub.docker.com/repository/docker/theeanalyst/sepsis/general">Docker Hub Repo</a></td>
+  </tr>
 </table>
 
 ## 3. Technology Stack <a name="technology"></a>
