@@ -97,7 +97,7 @@ This project combines machine learning and FastAPI to develop a powerful and sca
 <table>
   <tr>
     <td>FastApi</td>
-    <td><a href="http://localhost:8000/docs">Sepsis Prediction API-heroku</a></td>
+    <td><a href="http://localhost:8000/docs">Sepsis Prediction API</a></td>
   </tr>
 
 </table>
@@ -115,25 +115,20 @@ This project combines machine learning and FastAPI to develop a powerful and sca
   </tr>
   <tr>
     <td>FastAPI</td>
-    <td>0.95.2</td>
+    <td>0.104.1</td>
   </tr>
   <tr>
     <td>Uvicorn</td>
-    <td>0.22.0</td>
+    <td>0.24.0</td>
   </tr>
     <tr>
     <td>Scikit-learn</td>
-    <td>0.24.1</td>
+    <td>1.3.2</td>
   </tr>
   </tr>
     <tr>
     <td>Pandas</td>
-    <td>1.2.4</td>
-  </tr>
-  </tr>
-    <tr>
-    <td>Jinja2</td>
-    <td>3.1.2</td>
+    <td>2.0.2</td>
   </tr>
   
 </table>
