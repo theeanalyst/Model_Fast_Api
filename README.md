@@ -53,7 +53,6 @@ This project combines machine learning and FastAPI to develop a powerful and sca
   </tr>
   <tr>
     <td>PRG</td>
-    <td>Attribute1</td>
     <td>Plasma glucose</td>
   </tr>
   <tr>
